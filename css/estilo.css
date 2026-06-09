@@ -1,0 +1,31 @@
+.form-control {
+    padding: 10px;
+}
+
+.table {
+    table-layout: fixed;
+    width: 100%;
+    ;
+}
+
+.table th,
+.table td {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    vertical-align: top
+}
+
+.select-texto{
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.select-texto:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
